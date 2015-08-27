@@ -1,5 +1,7 @@
 # RPG Protocol 
 
+[![Join the chat at https://gitter.im/openrpgtaskforce/rpg-protocol](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openrpgtaskforce/rpg-protocol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/openrpgtaskforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/openrpgtaskforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is an attempt at creating a standard role play game network protocol. 
