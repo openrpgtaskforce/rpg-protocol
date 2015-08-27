@@ -1,14 +1,13 @@
-# rpg-protocol
+# RPG Protocol
 
-Handshake: 
+This is an attempt at creating a standard role play game network protocol. 
 
-Text mode:
-helo user-agent-identifier
-dont 
+## Status
 
+Things are very fluid at the moment as this project kicks off and we work out the basics like handshaking and authentication. You may find the current outlined proposal in [PLANNING](https://github.com/openrpgtaskforce/rpg-protocol/blob/master/PLANNING.md).
 
-Binary mode:
-- 2 byte endian indicator
- - MM for big endian
- - ll for little endian
+## License
 
+[Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/). This is a Public Domain work. 
+
+![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)
